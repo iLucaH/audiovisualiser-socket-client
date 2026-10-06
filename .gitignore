@@ -8,6 +8,11 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+build/
+.dart/
+.dart_tool/
+.flutter-plugins-dependencies
+lib/.idea
 
 # Native
 .kotlin/
